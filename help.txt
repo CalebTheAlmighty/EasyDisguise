@@ -1,0 +1,8 @@
+To set what classes you want to be able to disguise as
+
+1. open the "Classes" file with notepad
+2. change the number to allow/disallow them
+  -  To be able to disguise as the class set it from 0 to 1
+  -  If you dont want to disguise as the class set it from 1 to 0
+  -  AND ONLY CHANGE THE NUMBERS(1 or 0) OR ELSE THIS WILL NOT WORK
+3. save and your all set
